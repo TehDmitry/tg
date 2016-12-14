@@ -1,3 +1,6 @@
+# Project moved #
+Project moved to standalone repository https://github.com/TehDmitry/tg-cli
+
 ## Telegram messenger CLI [![Build Status](https://travis-ci.org/TehDmitry/tg.svg?branch=master)](https://travis-ci.org/TehDmitry/tg)
 
 Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
